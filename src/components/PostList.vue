@@ -19,5 +19,11 @@
 </template>
 
 <style scoped>
+    .post-list{
+        list-style: none;
+    }
 
+    .post-list li{
+        padding: 10px;
+    }
 </style>
